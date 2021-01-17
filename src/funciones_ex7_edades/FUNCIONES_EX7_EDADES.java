@@ -15,6 +15,10 @@ import java.util.Scanner;
  */
 public class FUNCIONES_EX7_EDADES {
 
+    /**
+     * Método que imprimirá por consola el promedio de las edades de n usuarios.
+     * @param args 
+     */
     
     public static void main(String[] args) {
 
